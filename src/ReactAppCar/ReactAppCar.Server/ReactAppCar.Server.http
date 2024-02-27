@@ -1,0 +1,6 @@
+@ReactAppCar.Server_HostAddress = http://localhost:5090
+
+GET {{ReactAppCar.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

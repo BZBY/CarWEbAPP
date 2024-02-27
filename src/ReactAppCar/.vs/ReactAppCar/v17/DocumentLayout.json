@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\CarWEbAPP\\src\\ReactAppCar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2F3546-84DE-4263-9650-B0C6FCD84671}|reactappcar.client\\reactappcar.client.esproj|d:\\github\\carwebapp\\src\\reactappcar\\reactappcar.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B2F3546-84DE-4263-9650-B0C6FCD84671}|reactappcar.client\\reactappcar.client.esproj|solutionrelative:reactappcar.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D98AFB-FEDD-4466-BDC0-64357FB1AD5E}|ReactAppCar.Server\\ReactAppCar.Server.csproj|d:\\github\\carwebapp\\src\\reactappcar\\reactappcar.server\\reactappcar.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{63D98AFB-FEDD-4466-BDC0-64357FB1AD5E}|ReactAppCar.Server\\ReactAppCar.Server.csproj|solutionrelative:reactappcar.server\\reactappcar.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\github\\CarWEbAPP\\src\\ReactAppCar\\reactappcar.client\\index.html",
+              "RelativeDocumentMoniker": "reactappcar.client\\index.html",
+              "ToolTip": "D:\\github\\CarWEbAPP\\src\\ReactAppCar\\reactappcar.client\\index.html",
+              "RelativeToolTip": "reactappcar.client\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-27T12:36:28.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReactAppCar.Server",
+              "DocumentMoniker": "D:\\github\\CarWEbAPP\\src\\ReactAppCar\\ReactAppCar.Server\\ReactAppCar.Server.csproj",
+              "RelativeDocumentMoniker": "ReactAppCar.Server\\ReactAppCar.Server.csproj",
+              "ToolTip": "D:\\github\\CarWEbAPP\\src\\ReactAppCar\\ReactAppCar.Server\\ReactAppCar.Server.csproj",
+              "RelativeToolTip": "ReactAppCar.Server\\ReactAppCar.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-27T12:30:58.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

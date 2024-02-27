@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "X0wn0abn3N1JHfGBybFbt5PHpjK9R/gvk3ptBzRoAKg=",
+  "Source": "ReactAppCar.Server",
+  "BasePath": "_content/ReactAppCar.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\github\\CarWEbAPP\\src\\ReactAppCar\\reactappcar.client\\reactappcar.client.esproj",
+      "Version": 2,
+      "Source": "reactappcar.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
